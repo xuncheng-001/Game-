@@ -1,0 +1,11 @@
+# ninja log v6
+1	19	1745482187368959878	build.ninja	2206e3b3eb43f9c9
+2	1127	1744363431710914470	CMakeFiles/game.dir/include/imgui/imgui_widgets.cpp.o	3d5c64037b323df
+2	626	1744363431710914470	CMakeFiles/game.dir/include/imgui/imgui_tables.cpp.o	9959077a2378fbc6
+1	694	1744363431710914470	CMakeFiles/game.dir/include/imgui/imgui_demo.cpp.o	666ad790eaa3fcfb
+2	131	1744363431710914470	CMakeFiles/game.dir/include/imgui/backends/imgui_impl_glfw.cpp.o	a92228a0b658891d
+1	932	1744363431710914470	CMakeFiles/game.dir/include/imgui/imgui_draw.cpp.o	3368bfd3b67b551e
+1	1418	1744363431710914470	CMakeFiles/game.dir/include/imgui/imgui.cpp.o	32e619254bda1c74
+2	111	1744363431710914470	CMakeFiles/game.dir/include/imgui/backends/imgui_impl_opengl3.cpp.o	aee1accfc5232b25
+1	216	1744443451097673062	CMakeFiles/game.dir/main.cpp.o	4a407f67c959488a
+216	309	1744443451313662481	game	f665fa7cd4a73d04
